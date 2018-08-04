@@ -1,4 +1,5 @@
 var friendsArray = [{
+
     "name": "Godfrey",
     "photo": "https://i.chzbgr.com/full/6578206208/hD90C5E9B/",
     "scores": [

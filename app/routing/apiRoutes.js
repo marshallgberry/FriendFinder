@@ -1,6 +1,5 @@
 var friendsData = require("../data/friend");
 
-
 module.exports = function(app) {
   
   //api get request
